@@ -13,6 +13,5 @@
     <a href=""><strong>4th Baorui Ma</strong></a>
 
   </p>
-  <h2 align="center">ICASSP 2025</h2>
   <div align="center"></div>
 </p>

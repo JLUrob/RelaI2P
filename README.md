@@ -50,14 +50,6 @@ iments on the KITTI dataset.
   <img src="figs/kitti.jpg" width="780" />
 </p>
 
-
-## Feature Matching Results
-<p align="center">
-  <img src="figs/matching.jpg" width="760" />
-</p>
-
-
-
 ## Installation
 Our code is implemented in Python 3.8, PyTorch 1.11.0 and CUDA 11.3.
 - Install python Dependencies

@@ -1,0 +1,10 @@
+# ninja log v5
+4	44264	1702006001894391737	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/ball_query.o	3b59529c9646af30
+2	45894	1702006003522405637	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/group_points.o	27ada3bb7dec8d06
+0	47006	1702006004634415118	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/interpolate.o	a54362c074822f38
+2	48138	1702006005774424823	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/sampling.o	a714784a8e75a478
+1	56366	1702006013990494383	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/bindings.o	c108106d9d3f8bef
+17	96639	1702006054258825726	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/ball_query_gpu.o	2776007e0f9d39fc
+15	98426	1702006055986839601	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/group_points_gpu.o	5e71183d642154f4
+10	101017	1702006058546860104	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/interpolate_gpu.o	4050b270aa333b0d
+1	106275	1702006063902902809	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/sampling_gpu.o	95f455350dba8450

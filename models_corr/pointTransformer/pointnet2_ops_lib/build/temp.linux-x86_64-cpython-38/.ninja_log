@@ -1,0 +1,10 @@
+# ninja log v5
+3	22450	1703301215317731437	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate.o	f1bd940ecc43e705
+0	22535	1703301215401731731	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling.o	6eb165a8b7b3e87b
+2	22544	1703301215413731774	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points.o	3f8486acc7d78e26
+0	22594	1703301215461731942	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query.o	b9ec272fa1dd671b
+1	23123	1703301215981733760	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/bindings.o	7f4c601d3b10e45e
+1	58189	1703301251041856140	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query_gpu.o	f5eb969c321ff789
+3	59791	1703301252645861729	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate_gpu.o	362a044fd0f00511
+2	60076	1703301252929862718	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points_gpu.o	1355df1e4274b782
+3	60356	1703301253217863723	/home/jlurobot/wzy/Calibration/Lidar2Camera/VP2P-Match-main/models/pointTransformer/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling_gpu.o	c6312e3f491ad995
